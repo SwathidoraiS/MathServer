@@ -129,6 +129,7 @@ urlpatterns = [
     path('areaofsquareprism/',views.squareprism,name="areaofsquareprism"),
     path('',views.squareprism,name="areaofsquareprismroot")
 ]
+```
 
 ## SERVER SIDE PROCESSING:
 ![Alt text](<Screenshot (37).png>)
